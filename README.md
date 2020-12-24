@@ -1,0 +1,13 @@
+# PRESIDENT_GOLD_9-user 9 P00610 1571727487 release-keys
+- manufacturer: gfive
+- platform: mt6739
+- codename: PRESIDENT_GOLD_9
+- flavor: full_k39tv1_bsp-user
+- release: 9
+- id: P00610
+- incremental: 1571727487
+- tags: release-keys
+- fingerprint: GFIVE/PRESIDENT_GOLD_9/PRESIDENT_GOLD_9:9/P00610/1571727487:user/release-keys
+- brand: GFIVE
+- branch: PRESIDENT_GOLD_9-user-9-P00610-1571727487-release-keys
+- repo: gfive_president_gold_9_dump
